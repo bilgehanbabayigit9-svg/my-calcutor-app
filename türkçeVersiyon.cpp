@@ -1,3 +1,4 @@
+//kodu kopyalayıp bir editöre yapıştırın
 #include <iostream>
 
 int main() {
