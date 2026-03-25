@@ -1,4 +1,5 @@
 #include <iostream>
+//Copy the code and paste it into a compiler
 int main() {
 	double num1;
 	double num2;
