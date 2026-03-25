@@ -1,22 +1,30 @@
-#    |_____________________________________________|
-#    |===|MY CALCULATOR APP PROJECT|===|      
-#    |-----------------------------------------------|
+# C++ Calculator App
 
-this is a my calculator app project
------
-## NOTE: this is just only supported <i>+, -, * and /</i>
+A simple console-based calculator written in C++.
 
-This calculator has a different usage than others. It is used as follows:
-|----------------|
-|input1: num1    |
-|input2: num2    |
-|input3: operator|
------
-<b>|_CREDİTS_|</b><br>
-CREATOR NAME: bilgehanbabayigit9-svg<br>
-REAL CREATOR NAME: bilgehan<br>
-SUPPORTER: none<br>
-PUBLİCALİTİON TİME: 25.3.2026<br>
------
+## Features
+- Supports addition (+)
+- Supports subtraction (-)
+- Supports multiplication (*)
+- Supports division (/)
 
-thanks for trying my project. goodluck :)
+## How to Use
+Enter values in this order:
+
+1. First number
+2. Second number
+3. Operator (+, -, *, /)
+
+Example:
+
+10
+20
++
+Result: 30
+
+
+## About
+This project was created to practice basic C++ programming concepts.
+
+## Author
+Bilgehan
